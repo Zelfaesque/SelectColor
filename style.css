@@ -1,0 +1,20 @@
+    .color-picker {
+            font-size: 25px;
+            background-color: #fff;
+            border: 2px solid #fff;
+            border-radius: 35px;
+            cursor: pointer;
+          width: 40px;
+            height: 40px;
+            margin-left: 10px;
+        }
+        .color-container {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+          border : 1px solid #ccc;
+          padding : 8px;
+          border-radius : 25px ;
+          background-color: #fff;
+        }
